@@ -14,6 +14,11 @@ Modern Roman numerals are written by expressing each decimal digit of the number
 `solution('XXI') # should return 21`
 
 
+Running Tests
+----------
+Tests are located in the `tests` directory. To run Roman to decimal integer converter related tests use `python -m unittest tests.test_roman_solution`
+
+
 Authors
 ----------
 * **Denis Z.** &#8212; *Initial work* &#8212; [d2718nis](https://github.com/d2718nis)
