@@ -23,7 +23,7 @@ Authors
 ----------
 * **Denis Z.** &#8212; *Initial work* &#8212; [d2718nis](https://github.com/d2718nis)
 
-See also the list of [contributors](https://github.com/d2718nis/codewars-did-i-finish-my-sudoku/contributors)
+See also the list of [contributors](https://github.com/d2718nis/codewars-roman-numerals-decoder/contributors)
 who participated in this project.
 
 
